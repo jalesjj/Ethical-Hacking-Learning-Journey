@@ -25,8 +25,8 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
--->
 ---
+-->
 
 ## 📖 **Learning Modules Progress**
 
@@ -56,7 +56,7 @@
 - Mengontrol Komputer MS Windows target dengan memanfaatkan Backdoor
 
 ---
-
+<!--
 ## 📂 **Repository Structure**
 
 ```
@@ -83,18 +83,8 @@
     ├── lab-environments.md
     └── study-schedule.md
 ```
-
 ---
-
-## 🏆 **Recent Achievements**
-
-- ✅ **Week 1**: Successfully set up Kali Linux environment
-- ✅ **Week 2**: Completed first network reconnaissance lab
-- ✅ **Week 3**: Identified 5 vulnerabilities in test web application
-- ✅ **Week 4**: Created first Python automation script for scanning
-- 🎯 **This Week**: Working on advanced SQL injection techniques
-
----
+-->
 <!--
 ## 🤝 **Connect With Me**
 
@@ -102,9 +92,8 @@
 - **Twitter**: [Your Twitter Handle]
 - **Email**: [Your Professional Email]
 - **Blog**: [Your Cybersecurity Blog if any]
--->
 ---
-
+-->
 ## 📜 **License & Terms**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -126,15 +115,3 @@ By accessing this repository, you agree to:
 - Not use any techniques for unauthorized access to systems
 - Respect all applicable laws and regulations
 - Give proper attribution when using or sharing this content
-
----
-
-<div align="center">
-
-**Last Updated**: [Current Date] | **Next Update**: [Next Week]
-
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
-
-*"The best way to learn ethical hacking is by doing it responsibly and legally. Always remember: With great power comes great responsibility."*
-
-</div>
