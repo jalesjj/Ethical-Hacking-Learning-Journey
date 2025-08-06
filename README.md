@@ -98,13 +98,6 @@
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### 🎓 **Educational Use Only**
-This repository is intended for educational purposes only. By using this content, you agree to:
-- Use techniques only in authorized lab environments
-- Not perform unauthorized access to any systems
-- Follow all applicable laws and ethical guidelines
-- Give proper attribution when sharing or building upon this work
-
 ### ⚠️ **Disclaimer**
 The author is not responsible for any misuse of the information provided. All techniques should be used responsibly and legally.
 
