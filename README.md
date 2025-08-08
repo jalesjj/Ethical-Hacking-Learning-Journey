@@ -12,9 +12,10 @@
 > **WARNING**: This repository is for **educational purposes only**. All techniques, tools, and methodologies documented here should **ONLY** be used in authorized environments with proper written permission. Unauthorized access to computer systems is **illegal** and **unethical**. Always follow responsible disclosure practices.
 
 ---
-<!--
+
 ### 🔧 **Technical Stack**
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
